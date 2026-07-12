@@ -1,0 +1,75 @@
+BEGIN MainActivity
+
+    ON create:
+        load screen layout
+
+        initialize database helper
+
+        link UI elements:
+            nameInput
+            quantityInput
+            priceInput
+            addButton
+            viewButton
+            displayText
+
+        set button colors
+
+        GET userRole from intent
+
+        IF userRole == "Viewer":
+            hide addButton
+            hide nameInput
+            hide quantityInput
+            hide priceInput
+            show toast "Logged in as View-Only Mode"
+
+        SET addButton onClick:
+            READ name from nameInput
+            READ quantityString from quantityInput
+            READ priceString from priceInput
+
+            IF any field is empty:
+                show toast "Please fill all fields"
+                STOP
+
+            CONVERT quantityString → quantity (integer)
+            CONVERT priceString → price (double)
+
+            CALL database.insertItem(name, quantity, price)
+                RETURNS insertedFlag
+
+            IF insertedFlag == true:
+                show toast "Item Saved!"
+                clear nameInput
+                clear quantityInput
+                clear priceInput
+                CALL displayInventory()
+            ELSE:
+                show toast "Insertion Failed"
+
+        SET viewButton onClick:
+            CALL displayInventory()
+
+        CALL displayInventory()   // initial load
+
+    FUNCTION displayInventory:
+        CALL database.getAllItems()
+            RETURNS cursor
+
+        IF cursor is empty:
+            displayText = "No products found in stock."
+            STOP
+
+        CREATE empty textBuffer
+
+        FOR each row in cursor:
+            APPEND "ID: " + row.id
+            APPEND "Product: " + row.name
+            APPEND "In Stock: " + row.quantity
+            APPEND "Price: $" + row.price
+            APPEND blank line
+
+        SET displayText = textBuffer
+
+END MainActivity

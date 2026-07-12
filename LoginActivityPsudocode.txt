@@ -1,0 +1,61 @@
+BEGIN LoginActivity
+
+    ON create:
+        load login screen layout
+
+        initialize database helper
+
+        link UI elements:
+            usernameInput
+            passwordInput
+            loginButton
+            registerButton
+            roleDropdown
+
+        DEFINE roles = ["Admin", "Viewer"]
+        attach roles to roleDropdown
+
+        // -----------------------------
+        // REGISTRATION BUTTON LOGIC
+        // -----------------------------
+        WHEN registerButton clicked:
+            READ username from usernameInput
+            READ password from passwordInput
+            READ selectedRole from roleDropdown
+
+            IF username is empty OR password is empty:
+                show toast "Fill credentials to register"
+                STOP
+
+            CALL database.registerUser(username, password, selectedRole)
+                RETURNS registrationSuccess
+
+            IF registrationSuccess == true:
+                show toast "Account Created as <selectedRole>"
+            ELSE:
+                show toast "Username taken"
+
+        // -----------------------------
+        // LOGIN BUTTON LOGIC
+        // -----------------------------
+        WHEN loginButton clicked:
+            READ username from usernameInput
+            READ password from passwordInput
+
+            CALL database.verifyUser(username, password)
+                RETURNS cursor
+
+            IF cursor exists AND cursor has at least one row:
+                READ userRole from cursor column index 3
+                close cursor
+
+                show toast "Access Granted (<userRole>)"
+
+                CREATE intent to open MainActivity
+                attach userRole to intent
+                start MainActivity
+                finish LoginActivity
+            ELSE:
+                show toast "Invalid credentials"
+
+END LoginActivity
