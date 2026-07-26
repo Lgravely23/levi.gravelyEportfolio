@@ -1,4 +1,5 @@
-# levi gravely Eportfolio
+#About Me#
+#My name is Levi Gravely#
 
 <details>
 <summary>My Languages i prefer </summary>
