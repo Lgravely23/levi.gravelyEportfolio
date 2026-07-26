@@ -1,2 +1,13 @@
-# levi.gravelyEportfolio
-This will serve as the main read me for this repository
+# levi gravely Eportfolio
+
+<details>
+<summary>My Languages i prefer </summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1|    Python     |
+|     2|   Terraform   |
+|     3|     HTML      |
+|     4|     c++       |
+
+</details>
