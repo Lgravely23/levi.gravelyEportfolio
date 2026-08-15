@@ -1,8 +1,3 @@
----
-title: "Levi Gravely — Computer Science Professional"
-layout: default
----
-
 {% include nav.html %}
 
 # **Levi Gravely — Computer Science Professional**
