@@ -1,7 +1,3 @@
----
-title: "Current Sample Projects"
-layout: default
----
 # **Projects**
 Heres a list of projects selected for this e portfilo it showcase a starting project from my mobile architecture class and then 3 different enhancements to it.
 ---
