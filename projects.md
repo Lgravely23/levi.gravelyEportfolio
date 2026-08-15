@@ -43,11 +43,12 @@ Changed the database structure to add algorithmic indexes.
 
 [milestone 3 narrative Levi_gravely.docx](https://github.com/user-attachments/files/31107677/milestone.3.narrative.Levi_gravely.docx)
 ---
+
 ## **Inventory app - Project3portfoliov3 - Databases**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
 
 **Overview:**  
-
+Added login logic and security controls
 
 **Highlights**
 - Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.
