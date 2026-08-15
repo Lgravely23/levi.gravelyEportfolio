@@ -30,6 +30,7 @@ First Enhancement - User experience improvement that reflects software design.
 - Added QR scan functionality so that users can now scan barcodes instead of manually entering data. The app then tracks what's scanned.
 ---
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31107603/Project3portfoliov1.zip)
+
 [Milestone 2 Narrative levi_gravely.docx](https://github.com/user-attachments/files/31107670/Milestone.2.Narrative.levi_gravely.docx)
 ---
 
@@ -43,6 +44,7 @@ Changed the database structure to add algorithmic indexes.
 - Added algorithmic indexes which enhanced memory allocation and laid the groundwork for enhancement 3 which details user authentication and login storage within the database.
 ---
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31107611/Project3portfoliov2.zip)
+
 [milestone 3 narrative Levi_gravely.docx](https://github.com/user-attachments/files/31107677/milestone.3.narrative.Levi_gravely.docx)
 ---
 ## **Inventory app - Project3portfoliov3 - Databases**
@@ -55,6 +57,7 @@ Changed the database structure to add algorithmic indexes.
 - Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.
 ---
 [Project3portfoliov3.zip](https://github.com/user-attachments/files/31107616/Project3portfoliov3.zip)
+
 [CS 499 Milestone Four - Enhancement 3 Databases Narrative Levi_Gravely.docx](https://github.com/user-attachments/files/31107686/CS.499.Milestone.Four.-.Enhancement.3.Databases.Narrative.Levi_Gravely.docx)
 ---
 Link to code review https://snhu-my.sharepoint.com/:v:/g/personal/levi_gravely_snhu_edu/IQAr27_dEHq0T5TQsK9s9ez8AUW2aB_FxeTzrQNap5LDBz0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Qjj2fQ
