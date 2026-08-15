@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Your custom color overrides go here
+body {
+  background-color: #28282B; // Changes main background color
+  color: #FAF9F6;            // Changes text color
+}
+
+h1, h2, h3 {
+  color: #FAF9F6;            // Changes header colors
+}
