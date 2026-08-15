@@ -1,7 +1,3 @@
----
-title: "Levi Gravely — Computer Science Professional"
-layout: default
----
 # **Levi Gravely — Computer Science Professional**
 ### Showcasing my skills in multiple discplines.
 
