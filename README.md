@@ -9,20 +9,15 @@ Welcome to my E-portfolio. Explore my projects, professional self assessment , a
 - Databases 
  
 ---
+## ** Languages i prefer **
 
+- Python
+- C++
+- Terraform
+- Yaml
+- HTML/CSS
 
-<details>
-<summary>My Languages i prefer </summary>
-
-| Rank | Languages     |
-|-----:|---------------|
-|     1|    Python     |
-|     2|   Terraform   |
-|     3|     HTML      |
-|     4|     c++       |
-
-</details>
-
+---
 
 [View All Projects](projects.md)
 
