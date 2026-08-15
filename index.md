@@ -26,10 +26,3 @@ Welcome to my E-portfolio. Explore my projects, professional self assessment , a
 [View All Projects](projects.md)
 
 ---
-
-
-
-</body>
-</html>
-
-
