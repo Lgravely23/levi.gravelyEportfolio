@@ -20,6 +20,7 @@ Simple Inventory app with a database and a table for users to enter data in manu
 - Database to store items entered and a simple admin and user account.
 - Login screen with drop down for logging in. 
 
+[Project3.zip](https://github.com/user-attachments/files/31107587/Project3.zip)
 
 
 ---
@@ -35,8 +36,8 @@ Performed a full OWASP‑aligned assessment of a production web application.
 - Delivered remediation guidance  
 - Verified fixes through retesting  
 
+[Project3portfoliov1.zip](https://github.com/user-attachments/files/31107603/Project3portfoliov1.zip)
 ---
-
 ## **Inventory app - Project3portfoliov2**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
 
@@ -48,6 +49,7 @@ Strengthened identity security by implementing secure baseline configurations.
 - Implemented MFA and conditional access  
 - Improved audit logging and monitoring  
 
+[Project3portfoliov2.zip](https://github.com/user-attachments/files/31107611/Project3portfoliov2.zip)
 ---
 ## **Inventory app - Project3portfoliov3**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
@@ -60,7 +62,7 @@ Strengthened identity security by implementing secure baseline configurations.
 - Implemented MFA and conditional access  
 - Improved audit logging and monitoring  
 
-
+[Project3portfoliov3.zip](https://github.com/user-attachments/files/31107616/Project3portfoliov3.zip)
 ---
 
 
