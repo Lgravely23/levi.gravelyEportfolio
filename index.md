@@ -27,7 +27,5 @@ Welcome to my E-portfolio. Explore my projects, professional self assessment , a
 
 ---
 
-Learn more on the **About** page.
 
----
 
