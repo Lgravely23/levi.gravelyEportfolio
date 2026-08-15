@@ -21,8 +21,6 @@ Simple Inventory app with a database and a table for users to enter data in manu
 - Login screen with drop down for logging in. 
 
 [Project3.zip](https://github.com/user-attachments/files/31107587/Project3.zip)
-
-
 ---
 
 ## **Inventory app - Project3portfoliov1**
@@ -37,6 +35,7 @@ Performed a full OWASP‑aligned assessment of a production web application.
 - Verified fixes through retesting  
 
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31107603/Project3portfoliov1.zip)
+[Milestone 2 Narrative levi_gravely.docx](https://github.com/user-attachments/files/31107670/Milestone.2.Narrative.levi_gravely.docx)
 ---
 ## **Inventory app - Project3portfoliov2**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
@@ -50,6 +49,7 @@ Strengthened identity security by implementing secure baseline configurations.
 - Improved audit logging and monitoring  
 
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31107611/Project3portfoliov2.zip)
+[milestone 3 narrative Levi_gravely.docx](https://github.com/user-attachments/files/31107677/milestone.3.narrative.Levi_gravely.docx)
 ---
 ## **Inventory app - Project3portfoliov3**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
@@ -63,6 +63,7 @@ Strengthened identity security by implementing secure baseline configurations.
 - Improved audit logging and monitoring  
 
 [Project3portfoliov3.zip](https://github.com/user-attachments/files/31107616/Project3portfoliov3.zip)
+[CS 499 Milestone Four - Enhancement 3 Databases Narrative Levi_Gravely.docx](https://github.com/user-attachments/files/31107686/CS.499.Milestone.Four.-.Enhancement.3.Databases.Narrative.Levi_Gravely.docx)
 ---
 
 
