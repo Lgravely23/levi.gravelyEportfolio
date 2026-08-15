@@ -3,7 +3,7 @@ title: "Current Sample Projects"
 layout: default
 ---
 
-{% include nav.html %}
+
 
 # **Projects**
 Heres a list of projects selected for this e portfilo it showcase a starting project from my mobile architecture class and then 3 different enhancements to it.
