@@ -1,5 +1,3 @@
-{% include nav.html %}
-
 # **Levi Gravely — Computer Science Professional**
 ### Showcasing my skills in multiple discplines.
 
