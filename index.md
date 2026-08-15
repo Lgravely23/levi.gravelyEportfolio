@@ -18,7 +18,5 @@ Welcome to my E-portfolio. Explore my projects, professional self assessment , a
 - HTML/CSS
 
 ---
-
 [View All Projects](projects.md)
-
 ---
