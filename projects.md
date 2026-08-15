@@ -2,9 +2,6 @@
 title: "Current Sample Projects"
 layout: default
 ---
-
-
-
 # **Projects**
 Heres a list of projects selected for this e portfilo it showcase a starting project from my mobile architecture class and then 3 different enhancements to it.
 ---
@@ -23,44 +20,39 @@ Simple Inventory app with a database and a table for users to enter data in manu
 [Project3.zip](https://github.com/user-attachments/files/31107587/Project3.zip)
 ---
 
-## **Inventory app - Project3portfoliov1**
+## **Inventory app - Project3portfoliov1 - Software design **
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio  
 
 **Overview:**  
-Performed a full OWASP‑aligned assessment of a production web application.
+First Enhancement - User experience improvement that reflects software design.
 
 **Highlights**
-- Identified and documented critical vulnerabilities  
-- Delivered remediation guidance  
-- Verified fixes through retesting  
+- Added QR scan functionality so that users can now scan barcodes instead of manually entering data. The app then tracks what's scanned.
 
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31107603/Project3portfoliov1.zip)
 [Milestone 2 Narrative levi_gravely.docx](https://github.com/user-attachments/files/31107670/Milestone.2.Narrative.levi_gravely.docx)
 ---
-## **Inventory app - Project3portfoliov2**
+
+## **Inventory app - Project3portfoliov2 - Algorithm and Data Structures**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
 
 **Overview:**  
-Strengthened identity security by implementing secure baseline configurations.
+Changed the database structure to add algorithmic indexes. 
 
 **Highlights**
-- Reduced attack surface across domain controllers  
-- Implemented MFA and conditional access  
-- Improved audit logging and monitoring  
+- Added algorithmic indexes which enhanced memory allocation and laid the groundwork for enhancement 3 which details user authentication and login storage within the database.
 
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31107611/Project3portfoliov2.zip)
 [milestone 3 narrative Levi_gravely.docx](https://github.com/user-attachments/files/31107677/milestone.3.narrative.Levi_gravely.docx)
 ---
-## **Inventory app - Project3portfoliov3**
+## **Inventory app - Project3portfoliov3 - Databases**
 **Tools:** Groovy, Html , Java/ Kotlin - Android Studio 
 
 **Overview:**  
-Strengthened identity security by implementing secure baseline configurations.
+
 
 **Highlights**
-- Reduced attack surface across domain controllers  
-- Implemented MFA and conditional access  
-- Improved audit logging and monitoring  
+- Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.
 
 [Project3portfoliov3.zip](https://github.com/user-attachments/files/31107616/Project3portfoliov3.zip)
 [CS 499 Milestone Four - Enhancement 3 Databases Narrative Levi_Gravely.docx](https://github.com/user-attachments/files/31107686/CS.499.Milestone.Four.-.Enhancement.3.Databases.Narrative.Levi_Gravely.docx)
