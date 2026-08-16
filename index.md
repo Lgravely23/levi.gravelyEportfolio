@@ -22,9 +22,7 @@ Simple Inventory app with a database and a table for users to enter data in manu
 
 Highlights
 
-Simple table for data entry
-Database to store items entered and a simple admin and user account.
-Login screen with drop down for logging in.
+##Simple table for data entry ,Database to store items entered and a simple admin and user account.Login screen with drop down for logging in.##
 [Project3.zip](https://github.com/user-attachments/files/31119108/Project3.zip)
 
 ---
