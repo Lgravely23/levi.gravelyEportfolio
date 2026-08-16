@@ -14,7 +14,7 @@ In addition to the technical work, this program strengthened my understanding of
 Together, these enhancements represent my ability to design solutions that are usable, efficient, and secure. The QR scanner improved the user experience, the indexing and project updates improved application performance and maintainability, and the login and permission changes strengthened the application’s security posture. Each enhancement reflects a different part of my development as a computer science professional. As I continue building my career, I will carry forward the critical thinking skills, planning strategies, technical knowledge, and security mindset that I strengthened throughout this capstone experience.
 
 ---
-Original project Inventory app - Project 3
+**Original project Inventory app - Project 3**
 Tools: Groovy, Html , Java/ Kotlin - Android Studio
 
 Overview:
@@ -36,7 +36,7 @@ First Enhancement - User experience improvement that reflects software design.
 
 Highlights
 
-Added QR scan functionality so that users can now scan barcodes instead of manually entering data. The app then tracks what's scanned.
+##Added QR scan functionality so that users can now scan barcodes instead of manually entering data. The app then tracks what's scanned.##
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31119119/Project3portfoliov1.zip)
 ---
 
@@ -48,7 +48,7 @@ Changed the database structure to add algorithmic indexes.
 
 Highlights
 
-Added algorithmic indexes which enhanced memory allocation and laid the groundwork for enhancement 3 which details user authentication and login storage within the database.
+##Added algorithmic indexes which enhanced memory allocation and laid the groundwork for enhancement 3 which details user authentication and login storage within the database.##
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31119123/Project3portfoliov2.zip)
 ---
 
@@ -60,7 +60,7 @@ Added login logic and security controls
 
 Highlights
 
-Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.
+##Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.##
 
 ---
 [Project3portfoliov3.zip](https://github.com/user-attachments/files/31119130/Project3portfoliov3.zip)
