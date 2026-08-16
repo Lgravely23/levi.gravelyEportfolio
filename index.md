@@ -25,11 +25,9 @@ Highlights
 Simple table for data entry
 Database to store items entered and a simple admin and user account.
 Login screen with drop down for logging in.
----
 [Project3.zip](https://github.com/user-attachments/files/31119108/Project3.zip)
 
 ---
-
 **Inventory app - Project3portfoliov1 - Software design **
 Tools: Groovy, Html, Java/ Kotlin - Android Studio
 
@@ -39,7 +37,6 @@ First Enhancement - User experience improvement that reflects software design.
 Highlights
 
 Added QR scan functionality so that users can now scan barcodes instead of manually entering data. The app then tracks what's scanned.
----
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31119119/Project3portfoliov1.zip)
 ---
 
@@ -52,7 +49,6 @@ Changed the database structure to add algorithmic indexes.
 Highlights
 
 Added algorithmic indexes which enhanced memory allocation and laid the groundwork for enhancement 3 which details user authentication and login storage within the database.
----
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31119123/Project3portfoliov2.zip)
 ---
 
