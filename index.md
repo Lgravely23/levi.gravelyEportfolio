@@ -29,6 +29,7 @@ Login screen with drop down for logging in.
 [Project3.zip](https://github.com/user-attachments/files/31119108/Project3.zip)
 
 ---
+
 **Inventory app - Project3portfoliov1 - Software design **
 Tools: Groovy, Html, Java/ Kotlin - Android Studio
 
@@ -41,7 +42,8 @@ Added QR scan functionality so that users can now scan barcodes instead of manua
 ---
 [Project3portfoliov1.zip](https://github.com/user-attachments/files/31119119/Project3portfoliov1.zip)
 ---
-Inventory app - Project3portfoliov2 - Algorithm and Data Structures
+
+**Inventory app - Project3portfoliov2 - Algorithm and Data Structures**
 Tools: Groovy, Html, Java/ Kotlin - Android Studio
 
 Overview:
@@ -53,7 +55,8 @@ Added algorithmic indexes which enhanced memory allocation and laid the groundwo
 ---
 [Project3portfoliov2.zip](https://github.com/user-attachments/files/31119123/Project3portfoliov2.zip)
 ---
-Inventory app - Project3portfoliov3 - Databases
+
+**Inventory app - Project3portfoliov3 - Databases**
 Tools: Groovy, Html, Java/ Kotlin - Android Studio
 
 Overview:
