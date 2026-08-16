@@ -1,11 +1,10 @@
 ---
 ---
-@import "{{ site.theme }}";
-
 // Your custom color overrides go here
 body {
   background-color: #28282B; // Changes main background color
   color: #FAF9F6;            // Changes text color
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 h1, h2, h3 {
