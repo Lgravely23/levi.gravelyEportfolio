@@ -59,8 +59,6 @@ Added login logic and security controls
 Highlights
 
 ##Added login logic which allowed user accounts to be stored and password protected. Theres no longer a simple creation that allows anyone to access. Also added logic for users to only have read only access and admins full access.##
-
----
 [Project3portfoliov3.zip](https://github.com/user-attachments/files/31119130/Project3portfoliov3.zip)
 
 ---
