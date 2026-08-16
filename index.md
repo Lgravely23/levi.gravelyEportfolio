@@ -13,6 +13,7 @@ For my third enhancement, I focused on security and access control. The original
 In addition to the technical work, this program strengthened my understanding of cybersecurity concepts such as CVEs, patching, and vulnerability management. As artificial intelligence and other emerging technologies continue to influence the software landscape, organizations must patch systems more frequently and stay aware of vulnerabilities that could be exploited. Learning how to research CVEs and understand their impact has moved me closer to my goal of becoming a Cybersecurity Analyst. These experiences helped me connect software development, network engineering, and security into a broader professional skill set.
 Together, these enhancements represent my ability to design solutions that are usable, efficient, and secure. The QR scanner improved the user experience, the indexing and project updates improved application performance and maintainability, and the login and permission changes strengthened the application’s security posture. Each enhancement reflects a different part of my development as a computer science professional. As I continue building my career, I will carry forward the critical thinking skills, planning strategies, technical knowledge, and security mindset that I strengthened throughout this capstone experience.
 
+---
 Original project Inventory app - Project 3
 Tools: Groovy, Html , Java/ Kotlin - Android Studio
 
